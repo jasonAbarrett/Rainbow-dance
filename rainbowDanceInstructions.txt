@@ -1,4 +1,5 @@
 here are directions for rainbow dance 
 step left 
 step right 
-this is the rainbow dance 
+this is the rainbow dance
+making a change to this file on github
