@@ -3,3 +3,5 @@ step left
 step right 
 this is the rainbow dance
 making a change to this file on github
+adding a line 6 
+adding a line 7
