@@ -5,3 +5,6 @@ this is the rainbow dance
 making a change to this file on github
 adding a line 6 
 adding a line 7
+adding line 8 
+adding line 9 
+adding line 10
